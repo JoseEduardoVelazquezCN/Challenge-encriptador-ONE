@@ -49,7 +49,7 @@ main {
 .mensaje {
     height: 630px;
     background: rgb(234, 245, 255);
-    background-image: url("/imagenes/Muñeco.png");
+    background-image: url("./assets/imagenes/Muñeco.png");
     background-repeat: no-repeat;
     background-position: center;
     border: none;
@@ -170,7 +170,7 @@ main {
         height: 250px;
         width: 82%;
         background-color: rgba(178, 198, 224, 0.237);
-        background-image: url("/imagenes/Muñeco.png");
+        background-image: url("./assets/imagenes/Muñeco.png");
         background-repeat: no-repeat;
         background-position: center;
         border: none;
